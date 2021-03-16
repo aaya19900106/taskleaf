@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+プログラミングスクール「RUNTEQ」での学習の一貫として、
+書籍「現場で使えるRuby on Rails5 速習実践ガイド」
+Chapter 4 現場の複雑さに対応する　を勉強した記録です。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+＜工夫した点＞
+書籍通りにするだけではなく、リンクやボタンの色を変更してみました。
